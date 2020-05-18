@@ -2,13 +2,6 @@
 
 first file in this repo
 
-## Ipsum below
+## Website contents
 
-nbjhafwvfhklkjdkjdahdjgsakjvdahschv ajhcbskjdhfuhf
-kjbhjcbschb kljcbklscnj;lka
-nckjabscjksbcjhvscgsfvshffhskncm,s c.\
-jbccjhbsdcjhbschusgckj
-
-jdijhwufhidpokkndmmna
-lkdahdiuhwEUTFIUYFH
-NOIHCIAhUGUYGWl
+1. index.html
